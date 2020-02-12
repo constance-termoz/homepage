@@ -1,0 +1,20 @@
+.text {
+	float: left;
+	display: flex;
+	width: 350px;
+	text-align: center;
+	margin-left: -80px;
+}
+
+.text a {
+	background-color: #EE7674;
+    padding: 13px 48px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text ul {
+	margin-right: -76px;
+}

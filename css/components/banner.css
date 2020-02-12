@@ -1,0 +1,14 @@
+.banner {
+	background: rgba(255, 144, 0, 0.6);
+	padding: 20px 0px;
+}
+
+.banner li {
+	list-style: none;
+	padding: 0px;
+	text-align: right;
+}
+
+.banner a {
+	color: #92140C;
+}
